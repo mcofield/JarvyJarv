@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.sun.jersey.glassfish.v3.osgi:jersey-gf-bundle:1.2" type="repository">
+    <properties maven-id="com.sun.jersey.glassfish.v3.osgi:jersey-gf-bundle:1.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-gf-bundle-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-all-repackaged-3.0-b43.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-bundle-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr311-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
